@@ -204,3 +204,12 @@ https://gef-mottu-dev-app-a2dffngahzayd3an.brazilsouth-01.azurewebsites.net/swag
   "quantidadeVagas": 3000
 }
 ```
+
+## Integrantes
+
+- Eduardo Henrique Strapazzon Nagado - RM558158
+- Felipe Silva Maciel  - RM555307
+- Gustavo Ramires Lazzuri - RM556772
+
+---
+
